@@ -1,4 +1,4 @@
-# EDA Consumer Behavior Analaysis
+# EDA Technology & DS Jobs
 This dataset contains data collected across a period of 4 years to give us more information as types of work, annual salaries, nacionality and else regarding careers in data analysis.
 
 ### Data Description
